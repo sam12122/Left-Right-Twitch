@@ -1,5 +1,6 @@
 ﻿# Left-Right-Twitch
-Chrome extension you can switch your twitch chat to left or right  
+Move Twitch chat to the left of the video player with this Chrome extension
+
 A lightweight standalone version of the 'Left Chat' feature from BetterTTV  
 https://github.com/night/betterttv
 <img width="389" height="64" alt="image" src="https://github.com/user-attachments/assets/e33630c1-b336-47c4-93a0-4acc84f189db" />
